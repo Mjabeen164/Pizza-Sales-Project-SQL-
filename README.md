@@ -89,7 +89,11 @@ The main objectives were to:
 ## 🚀 Future Improvements  
 - Build an interactive **Power BI / Tableau dashboard**  
 - Automate reporting with Python + SQL  
-- Expand dataset with **customer demographics** for deeper insights  
+- Expand dataset with **customer demographics** for deeper insights
+
+
+## 📊 Presentation
+[View on Canva](https://www.canva.com/design/DAGyZ2L_60U/nv2rBflnf_IbLmI7sKCYXw/edit?utm_content=DAGyZ2L_60U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ---
 
